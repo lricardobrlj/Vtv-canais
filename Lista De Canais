@@ -5,6 +5,19 @@
 </item>
 
 <item>
+<title>CONMEBOL TV</title>
+<link>http://50.7.34.90:8090/live/CONMEBOL_TV1_HD?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://www.netbrasilia.net/wp-content/uploads/2020/09/net-brasilia-conmebol-tv-assine-internet-oferta-especial.png</thumbnail>
+</item>
+
+<item>
+<title>CONMEBOL TV 2</title>
+<link>http://50.7.34.90:8090/live/CONMEBOL_TV2_HD?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://www.netbrasilia.net/wp-content/uploads/2020/09/net-brasilia-conmebol-tv-assine-internet-oferta-especial.png</thumbnail>
+</item>
+
+
+<item>
 <title>Globo HD</title>
 <link>http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8</link>
 <thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/a/ab/Globo21-1.jpg/revision/latest?cb=20210104213029&path-prefix=pt-br</thumbnail>
