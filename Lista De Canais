@@ -1,4 +1,10 @@
 <item>
+<title>Record News HD</title>
+<link>http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://www.simnoticias.com.br/wp-content/uploads/2021/05/RECORD-NEWS.png</thumbnail>
+</item>
+
+<item>
 <title>Record News</title>
 <link>http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS</link>
 <thumbnail>https://www.simnoticias.com.br/wp-content/uploads/2021/05/RECORD-NEWS.png</thumbnail>
@@ -12,7 +18,7 @@
 
 <item>
 <title>Record TV </title>
-<link>http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8</link>
+<link>http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8</link>
 <thumbnail>https://img.r7.com/images/record-tv-06112019150320475?dimensions=660x360</thumbnail>
 </item>
 
