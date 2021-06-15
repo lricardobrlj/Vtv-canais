@@ -1,3 +1,8 @@
+<item>
+<title>AMC</title>
+<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/18.m3u8</link>
+</item>
+
 #EXTINF:-1 tvg-ID="" tvg-name="PORTAL" tvg-logo="http://168.205.87.198/logocanais/maptv.png" group-title="OI TV BASICO",PORTAL
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/82.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AGRO CANAL" tvg-logo="http://168.205.87.198/logocanais/agrocanal.png" group-title="OI TV BASICO",AGRO CANAL
