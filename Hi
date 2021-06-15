@@ -3,14 +3,17 @@
 <link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/18.m3u8</link>
 </item>
 
+<item>
+<title>BOOMERANG</title>
+<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/22.m3u8</link>
+</item>
+
 #EXTINF:-1 tvg-ID="" tvg-name="PORTAL" tvg-logo="http://168.205.87.198/logocanais/maptv.png" group-title="OI TV BASICO",PORTAL
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/82.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AGRO CANAL" tvg-logo="http://168.205.87.198/logocanais/agrocanal.png" group-title="OI TV BASICO",AGRO CANAL
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/10.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AGRO BRASIL" tvg-logo="http://168.205.87.198/logocanais/agrobrasil.png" group-title="OI TV BASICO",AGRO BRASIL
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/7.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="http://168.205.87.198/logocanais/amc.png" group-title="OI TV BASICO",AMC
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/14.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AMERICA LATINO" tvg-logo="http://168.205.87.198/logocanais/americalatino.png" group-title="OI TV BASICO",AMERICA LATINO
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/16.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET" tvg-logo="http://168.205.87.198/logocanais/animalplanet.png" group-title="OI TV BASICO",ANIMAL PLANET
@@ -19,8 +22,6 @@ http://168.205.87.198:8555/live/viniciusvieira/vieira123/18.m3u8
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/19.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BOA VONTADE TV" tvg-logo="http://168.205.87.198/logocanais/boavontadetv.png" group-title="OI TV BASICO",BOA VONTADE TV
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/21.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="http://168.205.87.198/logocanais/boomerang.png" group-title="OI TV BASICO",BOOMERANG
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/22.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BRA" tvg-logo="http://168.205.87.198/logocanais/bra.png" group-title="OI TV BASICO",BRA
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/24.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="CANÇÃO NOVA" tvg-logo="http://168.205.87.198/logocanais/cancaonova.png" group-title="OI TV BASICO",CANÇÃO NOVA
