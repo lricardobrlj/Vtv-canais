@@ -138,8 +138,14 @@
 </item>
 
 <item>
-<title>TBS HD </title>
+<title>TBS  </title>
 <link>http://origin-02.nxplay.com.br/TBS_01/tracks-v2a1/mono.m3u8</link>
+<thumbnail>http://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png</thumbnail>
+</item>
+
+<item>
+<title>TBS HD </title>
+<link>http://origin-02.nxplay.com.br/TBS_01/tracks-v1a1/mono.m3u8</link>
 <thumbnail>http://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png</thumbnail>
 </item>
 
