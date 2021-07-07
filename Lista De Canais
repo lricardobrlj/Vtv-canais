@@ -223,6 +223,18 @@
 </item>
 
 <item>
+<title>Rede TV SP HD </title>
+<link>http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://uploads.metropoles.com/wp-content/uploads/2020/10/01181314/logo-redetv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rede TV SP  </title>
+<link>http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://uploads.metropoles.com/wp-content/uploads/2020/10/01181314/logo-redetv.jpg</thumbnail>
+</item>
+
+<item>
 <title>SBT PE HD </title>
 <link>http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b216000_sleng.m3u8</link>
 <thumbnail>https://www.sbt.com.br/assets/images/default-image.png</thumbnail>
