@@ -300,9 +300,21 @@
 </item>
 
 <item>
-<title>SBT PE HD [ Opção 2 ] </title>
+<title>SBT PE HD</title>
 <link>http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b176000_sleng.m3u8</link>
 <thumbnail>https://www.sbt.com.br/assets/images/default-image.png</thumbnail>
+</item>
+
+<item>
+<title>SporTV HD</title>
+<link>http://199.127.62.234:2082/streams/70_.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/11/sportv3-590x310_divulgacao.png</thumbnail>
+</item>
+
+<item>
+<title>SporTV HD</title>
+<link>http://199.127.62.234:2082/streams/71_.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/11/sportv3-590x310_divulgacao.png</thumbnail>
 </item>
 
 <item>
