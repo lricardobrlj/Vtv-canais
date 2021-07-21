@@ -404,6 +404,12 @@
 
 <item>
 <title>Warner HD</title>
+<link>http://50.7.34.155:2200/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://jornal140.com/wp-content/uploads/2021/05/Warner-tV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Warner HD</title>
 <link>https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8</link>
 <thumbnail>https://jornal140.com/wp-content/uploads/2021/05/Warner-tV.jpg</thumbnail>
 </item>
