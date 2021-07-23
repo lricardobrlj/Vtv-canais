@@ -29,11 +29,111 @@
 </item>
 
 <item>
+<title>Band HD</title>
+<link>http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2020/05/15/band-8127413.jpg</thumbnail>
+</item>
+<item>
+<title>Band HD [ Opção 2 ]</title>
+<link>http://199.127.62.234:2082/streams/13_.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2020/05/15/band-8127413.jpg</thumbnail>
+</item>
+
+<item>
+<title>BIS </title>
+<link>http://50.7.34.155:2200/BR/BIS_HD-br/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://observatoriodatv.uol.com.br/wp-content/uploads/2020/02/canal-bis.png</thumbnail>
+</item>
+
+<item>
+<title>Canal Cult HD</title>
+<link>http://origin-02.nxplay.com.br/Cult/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://iconape.com/wp-content/files/ld/284920/svg/telecine-cult-logo-logo-icon-png-svg.png</thumbnail>
+</item>
+
+<item>
 <title>Canal Ricos HD</title>
 <link>https://stmv1.srvif.com/canalricos/canalricos/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/LnEW3oj.jpg</thumbnail>
 </item>
 
+<item>
+<title>Canção Nova HD</title>
+<link>http://origin-02.nxplay.com.br/CANCAO_NOVA_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>http://img.cancaonova.com/cnimages/especiais/uploads/sites/11/2014/09/marca_cancao_nova_jpg_v140517.jpg</thumbnail>
+</item>
+
+<item>
+<title>Classic Hits</title>
+<link>http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://cdn-profiles.tunein.com/s249942/images/brickg.jpg?t=637417553190000000</thumbnail>
+</item>
+
+<item>
+<title>Combate HD</title>
+<link>http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://s3.glbimg.com/v1/AUTH_11e51e25d9cb442693356a724bdb6ad8/prod/home-share-combate-343f6619.png</thumbnail>
+</item>
+
+<item>
+<title>Conmebol TV HD</title>
+<link>http://199.127.62.234:2082/streams/308_.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://1.bp.blogspot.com/-izzuFXwkQIw/X4eWDfB9MXI/AAAAAAAB1K4/flNuoiT_ndggdopR_XDTnsXToLed3PmmwCLcBGAsYHQ/s750/conembol.jpg</thumbnail>
+</item>
+
+<item>
+<title>Conmebol TV HD</title>
+<link>http://199.127.62.234:2082/streams/310_.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://1.bp.blogspot.com/-izzuFXwkQIw/X4eWDfB9MXI/AAAAAAAB1K4/flNuoiT_ndggdopR_XDTnsXToLed3PmmwCLcBGAsYHQ/s750/conembol.jpg</thumbnail>
+</item>
+
+<item>
+<title>Discovery Home & Health HD</title>
+<link>http://199.127.62.234:2082/streams/101_.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://2.bp.blogspot.com/-P9Yfdyv57Aw/WPeXXUOiuXI/AAAAAAAA3s0/1FHrk8dlsXMEbPD67GOo510rU_j0yVp2QCLcB/s640/discoveryhomeandhealth.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery Home & Health HD</title>
+<link>http://199.127.62.234:2082/streams/100_.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://2.bp.blogspot.com/-P9Yfdyv57Aw/WPeXXUOiuXI/AAAAAAAA3s0/1FHrk8dlsXMEbPD67GOo510rU_j0yVp2QCLcB/s640/discoveryhomeandhealth.png</thumbnail>
+</item>
+
+<item>
+<title>Esporte Interativo HD</title>
+<link>https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8</link>
+<thumbnail>https://www.esporteinterativo.com.br/__export/1569340825956/sites/esporteinterativo/arte/apps/facebook.jpg</thumbnail>
+</item>
+
+<item>
+<title>Film&Arts HD</title>
+<link>http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://www.textual.com.br/wp-content/uploads/2019/10/FIlmeArts_site.png</thumbnail>
+</item>
+
+<item>
+<title>Film&Arts </title>
+<link>http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://www.textual.com.br/wp-content/uploads/2019/10/FIlmeArts_site.png</thumbnail>
+</item>
+
+<item>
+<title>FishTv </title>
+<link>http://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png</thumbnail>
+</item>
+
+<item>
+<title>Gazeta </title>
+<link>http://199.127.62.234:2082/streams/221_.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://www.tvgazeta.com.br/wp-content/uploads/2015/10/share-logo-tv-470x246.png</thumbnail>
+</item>
+
+<item>
+<title>Gazeta </title>
+<link>http://199.127.62.234:2082/streams/220_.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://www.tvgazeta.com.br/wp-content/uploads/2015/10/share-logo-tv-470x246.png</thumbnail>
+</item>
 
 <item>
 <title>Globo News HD</title>
@@ -49,9 +149,33 @@
 </item>
 
 <item>
+<title>Globo HD [ Opção 2 ]</title>
+<link>http://199.127.62.234:2082/streams/26_.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/a/ab/Globo21-1.jpg/revision/latest?cb=20210104213029&path-prefix=pt-br</thumbnail>
+</item>
+
+<item>
+<title>Globo BAHIA HD</title>
+<link>https://canal1.proxy.tokplay.com.br/videos/event1/profile2.m3u8</link>
+<thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/a/ab/Globo21-1.jpg/revision/latest?cb=20210104213029&path-prefix=pt-br</thumbnail>
+</item>
+
+<item>
 <title>Globo RJ HD</title>
 <link>http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8</link>
 <thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/a/ab/Globo21-1.jpg/revision/latest?cb=20210104213029&path-prefix=pt-br</thumbnail>
+</item>
+
+<item>
+<title>Loading HD</title>
+<link>https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://img.ibxk.com.br///2021/05/27/27194011906433.jpg?w=1200&h=675&mode=crop&scale=both</thumbnail>
+</item>
+
+<item>
+<title>Loading SD</title>
+<link>https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987_360.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://img.ibxk.com.br///2021/05/27/27194011906433.jpg?w=1200&h=675&mode=crop&scale=both</thumbnail>
 </item>
 
 <item>
@@ -92,6 +216,54 @@
 </item>
 
 <item>
+<title>Nick. HD</title>
+<link>http://origin-02.nxplay.com.br/NICK_JR_00999_1/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://variety.com/wp-content/uploads/2014/08/nick-nickelodeon-logo.jpg?crop=97px%2C51px%2C794px%2C442px&resize=681%2C383</thumbnail>
+</item>
+
+<item>
+<title>Nick Jr. HD</title>
+<link>http://origin-02.nxplay.com.br/NICK_JR_00999_1/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/-jkpcLJ-3eTI/WVa7qyaFr6I/AAAAAAAA8CY/xW2d7p2U7_QqG5slQqr5k5tmee7-CQTZgCLcBGAs/s1600/Nick%2BJr.png</thumbnail>
+</item>
+
+<item>
+<title>Paramount HD</title>
+<link>http://origin-02.nxplay.com.br/PCBR_HD_NX_9998_/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://cdn2.actitudfem.com/media/files/styles/large/public/images/2014/11/notachannel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Paramount HD  [Opção 2 ]</title>
+<link>http://origin-02.nxplay.com.br/PCBR_HD_NX_9998_/tracks-v2a1/mono.m3u8</link>
+<thumbnail>https://cdn2.actitudfem.com/media/files/styles/large/public/images/2014/11/notachannel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Playkids HD</title>
+<link>http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://observatoriodatv.uol.com.br/wp-content/uploads/2018/09/playkids-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Playkids SD</title>
+<link>http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://observatoriodatv.uol.com.br/wp-content/uploads/2018/09/playkids-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Power Couple HD</title>
+<link>http://199.127.62.234:2082/streams/407_.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://www.playplus.com/Content/images/registerpowercouple/power_couple_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Prime Box Brasil</title>
+<link>http://origin-02.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png</thumbnail>
+</item>
+
+<item>
 <title>Record News HD</title>
 <link>http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS</link>
 <thumbnail>https://www.simnoticias.com.br/wp-content/uploads/2021/05/RECORD-NEWS.png</thumbnail>
@@ -113,6 +285,12 @@
 <title>Record TV SD </title>
 <link>http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8</link>
 <thumbnail>https://img.r7.com/images/record-tv-06112019150320475?dimensions=660x360</thumbnail>
+</item>
+
+<item>
+<title>Rede Familia HD </title>
+<link>https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1096000.m3u8</link>
+<thumbnail>https://tvpop.com.br/wp-content/uploads/2021/02/Rede-Familia.png</thumbnail>
 </item>
 
 <item>
@@ -211,3 +389,4 @@
 <link>http://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
 <thumbnail>https://2.bp.blogspot.com/-oaECNqHvlVY/Wjl-eaQboWI/AAAAAAAApps/i4-TTztGCscVqLlcdupn8gK5JFdsnq3iQCLcBGAs/s1600/zoomoo-net-clarotv-banner.jpg</thumbnail>
 </item>
+
