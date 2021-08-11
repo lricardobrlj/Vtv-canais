@@ -23,6 +23,18 @@
 </item>
 
 <item>
+<title>AMC HD</title>
+<link>http://origin-02.nxplay.com.br/AMC_BRASIL_15581/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png</thumbnail>
+</item>
+
+<item>
+<title>AMC HD 2</title>
+<link>http://origin-02.nxplay.com.br/AMC_BRASIL_15581/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png</thumbnail>
+</item>
+
+<item>
 <title>Arte 1 HD</title>
 <link>https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_3.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png</thumbnail>
