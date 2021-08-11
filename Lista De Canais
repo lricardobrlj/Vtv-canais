@@ -217,6 +217,12 @@
 </item>
 
 <item>
+<title>TV Brasil 2 HD </title>
+<link>http://origin-02.nxplay.com.br/TV_BRASIL_2/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://www.cxtv.com.br/img/Tvs/Logo/webp-l/31032afb0ddcda240d10e0de80793302.webp</thumbnail>
+</item>
+
+<item>
 <title>TV Cultura</title>
 <link>http://200.189.113.201/hls/tve.m3u8</link>
 <thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/3/33/Tvcultura.jpg/revision/latest?cb=20161114060522&path-prefix=pt-br</thumbnail>
