@@ -145,6 +145,12 @@
 </item>
 
 <item>
+<title>RedeTV HD </title>
+<link>https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8</link>
+<thumbnail>https://uploads.metropoles.com/wp-content/uploads/2020/10/01181314/logo-redetv.jpg</thumbnail>
+</item>
+
+<item>
 <title>Rede TV SP HD </title>
 <link>http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
 <thumbnail>https://uploads.metropoles.com/wp-content/uploads/2020/10/01181314/logo-redetv.jpg</thumbnail>
