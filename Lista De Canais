@@ -65,7 +65,7 @@
 </item>
 
 <item>
-<title>Film&Arts </title>
+<title>Film&Arts HD </title>
 <link>http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
 <thumbnail>https://www.textual.com.br/wp-content/uploads/2019/10/FIlmeArts_site.png</thumbnail>
 </item>
@@ -81,18 +81,6 @@
 <title>Globo RJ HD</title>
 <link>http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8</link>
 <thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/a/ab/Globo21-1.jpg/revision/latest?cb=20210104213029&path-prefix=pt-br</thumbnail>
-</item>
-
-<item>
-<title>MTV HD</title>
-<link>http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8</link>
-<thumbnail>https://ogimg.infoglobo.com.br/in/5809102-bd3-db0/FT1086A/mtv.png</thumbnail>
-</item>
-
-<item>
-<title>MTV HD 2</title>
-<link>http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
-<thumbnail>https://ogimg.infoglobo.com.br/in/5809102-bd3-db0/FT1086A/mtv.png</thumbnail>
 </item>
 
 <item>
@@ -165,12 +153,6 @@
 <title>Rede Familia HD </title>
 <link>https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1096000.m3u8</link>
 <thumbnail>https://tvpop.com.br/wp-content/uploads/2021/02/Rede-Familia.png</thumbnail>
-</item>
-
-<item>
-<title>RedeTV HD </title>
-<link>https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8</link>
-<thumbnail>https://uploads.metropoles.com/wp-content/uploads/2020/10/01181314/logo-redetv.jpg</thumbnail>
 </item>
 
 <item>
