@@ -23,18 +23,6 @@
 </item>
 
 <item>
-<title>Anime TV HD </title>
-<link>https://stmv1.srvif.com/animetv/animetv/playlist.m3u8</link>
-<thumbnail>https://multicanaishd.online/wp-content/uploads/2021/07/ANIME-TV.png</thumbnail>
-</item>
-
-<item>
-<title>Anime TV 2 HD </title>
-<link>https://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8</link>
-<thumbnail>https://multicanaishd.online/wp-content/uploads/2021/07/ANIME-TV.png</thumbnail>
-</item>
-
-<item>
 <title>Arte 1 HD</title>
 <link>https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_3.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png</thumbnail>
@@ -68,19 +56,6 @@
 <title>Film&Arts HD </title>
 <link>http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS</link>
 <thumbnail>https://www.textual.com.br/wp-content/uploads/2019/10/FIlmeArts_site.png</thumbnail>
-</item>
-
-<item>
-<title>Globo HD</title>
-<link>http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8</link>
-<thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/a/ab/Globo21-1.jpg/revision/latest?cb=20210104213029&path-prefix=pt-br</thumbnail>
-</item>
-
-
-<item>
-<title>Globo RJ HD</title>
-<link>http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8</link>
-<thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/a/ab/Globo21-1.jpg/revision/latest?cb=20210104213029&path-prefix=pt-br</thumbnail>
 </item>
 
 <item>
