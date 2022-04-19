@@ -71,6 +71,12 @@
 </item>
 
 <item>
+<title>Rede Vida </title>
+<link>https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png</thumbnail>
+</item>
+
+<item>
 <title>SBT PE HD </title>
 <link>http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b216000_sleng.m3u8</link>
 <thumbnail>https://www.sbt.com.br/assets/images/default-image.png</thumbnail>
