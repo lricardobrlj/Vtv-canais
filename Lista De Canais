@@ -59,6 +59,12 @@
 </item>
 
 <item>
+<title>CNN Brasil HD</title>
+<link>http://170.82.200.38:8080/cnn_brasil/index.m3u8</link>
+<thumbnail>https://marciostival.com.br/wp-content/uploads/2021/10/CNN-Brasil.jpg</thumbnail>
+</item>
+
+<item>
 <title>FX HD </title>
 <link>http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8</link>
 <thumbnail>http://assets.stickpng.com/images/6095271553a8bf00040ff3a9.png</thumbnail>
