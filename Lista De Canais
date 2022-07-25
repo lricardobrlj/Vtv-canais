@@ -53,6 +53,12 @@
 </item>
 
 <item>
+<title>Band News SD  </title>
+<link>http://170.82.200.38:8080/band_news/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://bandnewsfm.band.uol.com.br/wp-content/uploads/2018/06/bandnews-logo.png</thumbnail>
+</item>
+
+<item>
 <title>Canal Ricos HD</title>
 <link>https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/LnEW3oj.jpg</thumbnail>
