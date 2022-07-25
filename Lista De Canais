@@ -65,6 +65,12 @@
 </item>
 
 <item>
+<title>Fox Sports 2 HD</title>
+<link>http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/foxsports2.png</thumbnail>
+</item>
+
+<item>
 <title>FX HD </title>
 <link>http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8</link>
 <thumbnail>http://assets.stickpng.com/images/6095271553a8bf00040ff3a9.png</thumbnail>
