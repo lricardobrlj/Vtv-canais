@@ -71,27 +71,9 @@
 </item>
 
 <item>
-<title>CNN Brasil HD</title>
-<link>http://170.82.200.38:8080/cnn_brasil/index.m3u8</link>
-<thumbnail>https://marciostival.com.br/wp-content/uploads/2021/10/CNN-Brasil.jpg</thumbnail>
-</item>
-
-<item>
 <title>Comedy Central HD  </title>
 <link>http://cdn2.connectbr.com.br/comedy/index.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg</thumbnail>
-</item>
-
-<item>
-<title>Fox Sports 2 HD</title>
-<link>http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8</link>
-<thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/foxsports2.png</thumbnail>
-</item>
-
-<item>
-<title>FX HD </title>
-<link>http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8</link>
-<thumbnail>http://assets.stickpng.com/images/6095271553a8bf00040ff3a9.png</thumbnail>
 </item>
 
 <item>
@@ -152,12 +134,6 @@
 <title>Terra Viva HD</title>
 <link>http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8</link>
 <thumbnail>https://1.bp.blogspot.com/-G5SRPI9jtpU/X9p_o-VGqGI/AAAAAAAB6nE/81xoAO3nB8kM1NwzLcIn2OuONuysPbUGwCLcBGAsYHQ/s900/Terraviva.png</thumbnail>
-</item>
-
-<item>
-<title>TNT Series HD</title>
-<link>http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png</thumbnail>
 </item>
 
 <item>
