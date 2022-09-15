@@ -77,6 +77,12 @@
 </item>
 
 <item>
+<title>Comedy Central HD  </title>
+<link>http://cdn2.connectbr.com.br/comedy/index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg</thumbnail>
+</item>
+
+<item>
 <title>Fox Sports 2 HD</title>
 <link>http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8</link>
 <thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/foxsports2.png</thumbnail>
