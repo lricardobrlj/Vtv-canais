@@ -47,33 +47,15 @@
 </item>
 
 <item>
-<title>A&E HD </title>
-<link>http://cdn.connectbr.com.br/AE/index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png</thumbnail>
-</item>
-
-<item>
 <title>Anime TV  </title>
 <link>https://stmv1.srvif.com/animetv/animetv/chunklist_w1328718532.m3u8</link>
 <thumbnail>https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png</thumbnail>
 </item>
 
 <item>
-<title>Band News HD  </title>
-<link>http://cdn.connectbr.com.br/BandNews/index.m3u8</link>
-<thumbnail>https://www.abcdacomunicacao.com.br/wp-content/uploads/Band-News_logo.png</thumbnail>
-</item>
-
-<item>
 <title>Band SP HD  </title>
 <link>https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg</thumbnail>
-</item>
-
-<item>
-<title>Band Sports HD  </title>
-<link>http://cdn.connectbr.com.br/BandSports/index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/2560px-BandSports_logo.svg.png</thumbnail>
 </item>
 
 <item>
@@ -101,12 +83,6 @@
 </item>
 
 <item>
-<title>Nick HD </title>
-<link>http://cdn.connectbr.com.br/Nickelodeon/index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png</thumbnail>
-</item>
-
-<item>
 <title>Pluto TV Kids HD</title>
 <link>http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a485afc1-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f06c0425-e35d-4fc7-ac76-acb6635b08c9&userId=&serverSideAds=true</link>
 <thumbnail>https://uploads.jovemnerd.com.br/wp-content/uploads/2020/08/pluto-tv-plataforma-gratuita.jpg</thumbnail>
@@ -122,12 +98,6 @@
 <title>Record News ES HD </title>
 <link>https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w313138613.m3u8</link>
 <thumbnail>https://1.bp.blogspot.com/-qC3WnRbjawk/XQq-p4bwJII/AAAAAAAABHY/ZPQTIfZpXScHUQy-BclnBT_2nvSsHn2ugCLcBGAs/s320/Screenshot_2019-06-19-19-57-14.png</thumbnail>
-</item>
-
-<item>
-<title>Rede Vida </title>
-<link>https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png</thumbnail>
 </item>
 
 <item>
