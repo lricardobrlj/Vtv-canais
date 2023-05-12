@@ -48,13 +48,19 @@
 </item>
 
 <item>
-<title>Cartoon Network  HD</title>
+<title>Cartoon Network  HD [ por tempo limitado ]</title>
 <link>https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png</thumbnail>
 </item>
 
 <item>
-<title>MTV HD </title>
+<title>Globo HD [ por tempo limitado ]</title>
+<link>http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16730</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_globo_principal-laranja.png</thumbnail>
+</item>
+
+<item>
+<title>MTV HD [ por tempo limitado ]</title>
 <link>http://cdn2.connectbr.com.br/mtv/index.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png</thumbnail>
 </item>
