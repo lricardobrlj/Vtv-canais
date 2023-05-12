@@ -22,17 +22,6 @@
 </info>
 </item>
 
-<item>
-<title>[ 24H ] A Mulher Biônica </title>
-<link>https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8?ROGERIOTORRES</link>
-<thumbnail>https://cineclick-static.flixmedia.cloud/480/69/1080x1620_1595343143.jpg</thumbnail>
-</item>
-
-<item>
-<title>[ 24H ] Agente 86 </title>
-<link>https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w208446116.m3u8</link>
-<thumbnail>https://i.pinimg.com/236x/ea/a9/1e/eaa91ef20d399353754ef52b466bfa51--smart-tv-smartphone.jpg</thumbnail>
-</item>
 
 <item>
 <title>[ 24H ] Jetsons </title>
@@ -53,27 +42,9 @@
 </item>
 
 <item>
-<title>Band SP HD  </title>
-<link>https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg</thumbnail>
-</item>
-
-<item>
 <title>Canal Ricos HD</title>
 <link>https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/LnEW3oj.jpg</thumbnail>
-</item>
-
-<item>
-<title>Comedy Central HD  </title>
-<link>http://cdn2.connectbr.com.br/comedy/index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg</thumbnail>
-</item>
-
-<item>
-<title>Loading HD </title>
-<link>https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w797815617.m3u8</link>
-<thumbnail>https://1.bp.blogspot.com/-NxSgK3rd3cE/X865v5gZ4rI/AAAAAAAAz9o/7JmgLPbjv_gvUxkoU1sAqWei28QkY2RfgCLcBGAsYHQ/s16000/loading_canal_TV_logo_banner.jpg</thumbnail>
 </item>
 
 <item>
@@ -110,12 +81,6 @@
 <title>SBT PE SD</title>
 <link>http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b176000_sleng.m3u8</link>
 <thumbnail>https://www.sbt.com.br/assets/images/default-image.png</thumbnail>
-</item>
-
-<item>
-<title>Space HD</title>
-<link>http://cdn2.connectbr.com.br/space/index.m3u8</link>
-<thumbnail>https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png</thumbnail>
 </item>
 
 <item>
