@@ -84,6 +84,12 @@
 </item>
 
 <item>
+<title>MTV Hits HD</title>
+<link>http://178.170.47.109/MTVHITS/index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MTV_Hits.svg/2163px-MTV_Hits.svg.png</thumbnail>
+</item>
+
+<item>
 <title>Pluto TV Kids HD</title>
 <link>http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a485afc1-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f06c0425-e35d-4fc7-ac76-acb6635b08c9&userId=&serverSideAds=true</link>
 <thumbnail>https://uploads.jovemnerd.com.br/wp-content/uploads/2020/08/pluto-tv-plataforma-gratuita.jpg</thumbnail>
