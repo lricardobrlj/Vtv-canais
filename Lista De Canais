@@ -66,12 +66,6 @@
 </item>
 
 <item>
-<title>Globo HD [ por tempo limitado ]</title>
-<link>http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16730</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_globo_principal-laranja.png</thumbnail>
-</item>
-
-<item>
 <title>Jovem Pan News FHD [ por tempo limitado ] </title>
 <link>https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jovem_Pan_News_logo_2022.png/479px-Jovem_Pan_News_logo_2022.png</thumbnail>
@@ -81,18 +75,6 @@
 <title>MTV HD [ por tempo limitado ]</title>
 <link>http://cdn2.connectbr.com.br/mtv/index.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png</thumbnail>
-</item>
-
-<item>
-<title>MTV 00s SD</title>
-<link>http://195.24.89.82/VH1_SD/index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png</thumbnail>
-</item>
-
-<item>
-<title>MTV Hits HD</title>
-<link>http://178.170.47.109/MTVHITS/index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MTV_Hits.svg/2163px-MTV_Hits.svg.png</thumbnail>
 </item>
 
 <item>
