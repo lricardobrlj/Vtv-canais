@@ -48,6 +48,12 @@
 </item>
 
 <item>
+<title>Rede Vida HD </title>
+<link>https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png</thumbnail>
+</item>
+
+<item>
 <title>TV Câmara HD</title>
 <link>https://stream3.camara.gov.br/tv1/manifest.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png</thumbnail>
