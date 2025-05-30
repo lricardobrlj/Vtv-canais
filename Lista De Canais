@@ -66,6 +66,12 @@
 </item>
 
 <item>
+<title>Play TV  </title>
+<link>https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png</thumbnail>
+</item>
+
+<item>
 <title>Record TV SD [HD e FHD no VIP]  </title>
 <link>https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png</thumbnail>
