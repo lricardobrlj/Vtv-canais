@@ -138,6 +138,12 @@
 </item>
 
 <item>
+<title>SBT MT HD </title>
+<link>http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png</thumbnail>
+</item>
+
+<item>
 <title>TV Aparecida FHD</title>
 <link>https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png</thumbnail>
