@@ -29,6 +29,12 @@
 </item>
 
 <item>
+<title>[ 24H ] Friends </title>
+<link>http://24hrs.homelinux.com:8080/24H-friends/video.m3u8</link>
+<thumbnail>https://wp-cdn.etiquetaunica.com.br/blog/wp-content/uploads/2019/09/03100850/capa-post-outfits-friends-031219.jpg</thumbnail>
+</item>
+
+<item>
 <title>[ 24H ] Jetsons </title>
 <link>https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1695763810.m3u8</link>
 <thumbnail>https://rollingstone.uol.com.br/media/_versions/os-jetsons_reproducao_video_widelg.jpg</thumbnail>
