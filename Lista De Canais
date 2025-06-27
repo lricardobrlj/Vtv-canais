@@ -23,6 +23,12 @@
 </item>
 
 <item>
+<title>[ 24H ] Apenas Um Show </title>
+<link>http://24hrs.homelinux.com:8080/24H-apenasumshow/video.m3u8</link>
+<thumbnail>https://m.media-amazon.com/images/S/pv-target-images/4467381f8ccbbc2d17e06f78f3961adedaedc40293abd78a7a2948daf4b52096.jpg</thumbnail>
+</item>
+
+<item>
 <title>[ 24H ] Chaves Desenho Animado </title>
 <link>http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8</link>
 <thumbnail>https://m.media-amazon.com/images/S/pv-target-images/e1ea623c8e25c61dc1dfcd2b196ff76ac617f95a56a6d5222a3c6e997dd0bd29.jpg</thumbnail>
