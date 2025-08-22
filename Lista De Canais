@@ -29,15 +29,16 @@
 </item>
 
 <item>
-<title>Band SD [HD e FHD no VIP]  </title>
-<link>https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1395506279.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1200px-Rede_Bandeirantes_logo_2018.svg.png</thumbnail>
-</item>
-
-<item>
 <title>Canal Rural HD [FHD e 4K no VIP]  </title>
 <link>https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8</link>
 <thumbnail>https://telaviva.com.br/wp-content/uploads/2016/11/canal-rural.png</thumbnail>
+</item>
+
+
+<item>
+<title>CNN HD [FHD e 4K no VIP]  </title>
+<link>https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9d/CNN_Logo_%282014%29.svg</thumbnail>
 </item>
 
 <item>
