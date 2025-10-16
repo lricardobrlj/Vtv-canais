@@ -54,12 +54,6 @@
 </item>
 
 <item>
-<title>Globo SP HD  </title>
-<link>https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8</link>
-<thumbnail>https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551</thumbnail>
-</item>
-
-<item>
 <title>Jovem Pan News </title>
 <link>https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png</thumbnail>
@@ -102,12 +96,6 @@
 </item>
 
 <item>
-<title>Rede TV HD </title>
-<link>https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png</thumbnail>
-</item>
-
-<item>
 <title>Rede TV PR HD </title>
 <link>https://tv02.zas.media:1936/redetvparana/redetvparana/playlist_720p.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png</thumbnail>
@@ -123,12 +111,6 @@
 <title>SBT Cidade Verde Picos PI HD </title>
 <link>https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png</thumbnail>
-</item>
-
-<item>
-<title>SBT MT HD </title>
-<link>http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png</thumbnail>
 </item>
 
 <item>
