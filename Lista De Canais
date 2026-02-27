@@ -28,18 +28,6 @@
 <thumbnail>https://images.vexels.com/media/users/3/239798/isolated/preview/38aed9fdea96857d9962ebca7a18764c-tinta-para-lavagem-plana-de-elementos-de-comunhao-34.png</thumbnail>
 </item>
 
-<item>
-<title>Canal Rural HD [FHD e 4K no VIP]  </title>
-<link>https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8</link>
-<thumbnail>https://telaviva.com.br/wp-content/uploads/2016/11/canal-rural.png</thumbnail>
-</item>
-
-
-<item>
-<title>CNN HD [FHD e 4K no VIP]  </title>
-<link>https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9d/CNN_Logo_%282014%29.svg</thumbnail>
-</item>
 
 <item>
 <title>ESPN 6 HD [FHD no VIP] </title>
@@ -72,12 +60,6 @@
 </item>
 
 <item>
-<title>Record TV HD [FHD e 4K no VIP]  </title>
-<link>http://168.205.87.198:8555/live/1143/123456/96.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png</thumbnail>
-</item>
-
-<item>
 <title>Record TV SD [HD e FHD no VIP]  </title>
 <link>https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png</thumbnail>
@@ -99,12 +81,6 @@
 <title>Rede TV PR HD </title>
 <link>https://tv02.zas.media:1936/redetvparana/redetvparana/playlist_720p.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png</thumbnail>
-</item>
-
-<item>
-<title>SBT Cidade Verde PI HD </title>
-<link>https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png</thumbnail>
 </item>
 
 <item>
